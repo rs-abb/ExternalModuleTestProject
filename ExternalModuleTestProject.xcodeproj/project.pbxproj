@@ -24,6 +24,7 @@
 		50B031992A0B81D10072FB1C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		50B0319C2A0B81D10072FB1C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		50B0319E2A0B81D10072FB1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		50B031A42A0BA9900072FB1C /* TestPackage */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = TestPackage; path = ../TestPackage; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 			isa = PBXGroup;
 			children = (
 				50B0318F2A0B81D00072FB1C /* ExternalModuleTestProject */,
+				50B031A42A0BA9900072FB1C /* TestPackage */,
 				50B0318E2A0B81D00072FB1C /* Products */,
 			);
 			sourceTree = "<group>";
